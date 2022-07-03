@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rcph-smz&label=Profile%20views&color=0e75b6&style=flat" alt="rcph-smz" /> </p>
 
-- 🔭 I’m currently working on [rcph_player](https://rcph-smz.github.io/rcph_player/)
+- I’m currently working on [rcph_player](https://rcph-smz.github.io/rcph_player/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/rcph-smz/](https://github.com/rcph-smz/)
+- All of my projects are available at [https://github.com/rcph-smz/](https://github.com/rcph-smz/)
 
-- 💬 Ask me about **html,css**
+- Ask me about **html,css**
 
-- 📫 How to reach me **https://github.com/rcph-smz**
+- How to reach me **Your not allowed to reach me :D**
 
-- ⚡ Fun fact **Did you know ...**
+- Fun fact **Did you know [...]()**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
